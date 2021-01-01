@@ -1,6 +1,6 @@
 # Coding with Beng - Git/Github
 
-Tutorial video: https://www.youtube.com/watch?v=jvORR1pT8w8&ab_channel=CodingwithBeng
+Tutorial video: 
 
 ## Git Commands
 
