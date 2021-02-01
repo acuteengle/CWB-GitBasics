@@ -10,7 +10,11 @@ Tutorial video: https://www.youtube.com/watch?v=FR221ALdCUA&ab_channel=Codingwit
 
 `git add .` : adds all files to staging bucket
 
+`git status` : see what files are added your staging bucket (and which files are not staged)
+
 `git commit -m "<insert message>"` : creates a new commit in repository with all changes in staging bucket
+
+`git log` : see a list of the commits on your repository (most recent commit shows up on top)
 
 `git push` : pushes commmits to Github (or other remote repository that you have connected)
 
